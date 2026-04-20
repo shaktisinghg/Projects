@@ -35,6 +35,7 @@ questions = [
      "3"]
 ]
 
+
 prizes = [100000, 320000,4000000, 5000000, 10000000, ]
 i = 0
 for question in questions:
